@@ -55,7 +55,8 @@ https://github.com/your-username/company-ai-assistant/assets/123456789/example-s
    ```bash
    python -m streamlit run app.py
  6. **Структура проекта**
-   company-ai-assistant/
+
+company-ai-assistant/
    ├── data/                  # Ваши документы (PDF, DOCX, TXT)
    ├── models/                # LLM в формате GGUF (например, Llama 3)
    ├── faiss_db/              # Векторная база знаний (создаётся автоматически)
